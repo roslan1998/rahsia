@@ -15,11 +15,11 @@
       sudo apt-get --fix-broken install -y
       sudo apt-get  install git
       sudo apt-get  install python
-      echo "\033[1;32m Cloning SC allbot CLICK\033[1;0m"
+      echo "\033[1;32m Cloning SC LTC CLICK\033[1;0m"
       sleep 2
       git clone https://github.com/roslan1998/rahsia.git
       cd rahsia
-      unzip allbot.rar 
+      unzip allbot.zip 
       cd
       echo "\033[1;32mInstall Success Gaes\033[1;0m"
       sleep 2
